@@ -1,0 +1,30 @@
+[
+  {
+    "id": "admin_1",
+    "role": "admin",
+    "name": "Admin User",
+    "email": "admin@test.com",
+    "password": "123456"
+  },
+  {
+    "id": "shop_1",
+    "role": "shopkeeper",
+    "name": "Rajesh Silk House",
+    "email": "rajesh@test.com",
+    "password": "123456"
+  },
+  {
+    "id": "shop_2",
+    "role": "shopkeeper",
+    "name": "Priya Saree Emporium",
+    "email": "priya@test.com",
+    "password": "123456"
+  },
+  {
+    "id": "shop_3",
+    "role": "shopkeeper",
+    "name": "Kumar Textiles",
+    "email": "kumar@test.com",
+    "password": "123456"
+  }
+]

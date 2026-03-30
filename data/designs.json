@@ -1,0 +1,21 @@
+[
+  {
+    "id": "design_95cfa7f5",
+    "title": "Test1",
+    "image": "/uploads/08e330e2-9d11-490f-828f-25be716e9d58.jpeg",
+    "createdAt": "2026-03-30T12:13:41.319Z",
+    "assignedTo": [
+      "shop_1"
+    ]
+  },
+  {
+    "id": "design_714fab07",
+    "title": "Test 2",
+    "image": "/uploads/d3567b07-6650-4079-893b-aead87b2f57b.jpeg",
+    "createdAt": "2026-03-30T12:13:57.609Z",
+    "assignedTo": [
+      "shop_2",
+      "shop_1"
+    ]
+  }
+]
