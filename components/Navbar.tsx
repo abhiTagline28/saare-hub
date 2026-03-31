@@ -48,6 +48,7 @@ export default function Navbar() {
               <>
                 <NavLink href="/admin/dashboard">Dashboard</NavLink>
                 <NavLink href="/admin/upload">Upload</NavLink>
+                <NavLink href="/admin/shopkeepers">Shopkeepers</NavLink>
                 <NavLink href="/admin/selections">Selections</NavLink>
               </>
             ) : (
@@ -75,6 +76,7 @@ export default function Navbar() {
             <>
               <NavLink href="/admin/dashboard">Dashboard</NavLink>
               <NavLink href="/admin/upload">Upload</NavLink>
+              <NavLink href="/admin/shopkeepers">Shopkeepers</NavLink>
               <NavLink href="/admin/selections">Selections</NavLink>
             </>
           ) : (

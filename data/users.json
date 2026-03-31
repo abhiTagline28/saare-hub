@@ -26,5 +26,12 @@
     "name": "Kumar Textiles",
     "email": "kumar@test.com",
     "password": "123456"
+  },
+  {
+    "id": "shop_ee9e5b91",
+    "role": "shopkeeper",
+    "name": "KP",
+    "email": "kp@gmail.com",
+    "password": "123456"
   }
 ]
