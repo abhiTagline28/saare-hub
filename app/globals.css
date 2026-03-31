@@ -1,5 +1,18 @@
 @import "tailwindcss";
 
+/* Cursor pointer for interactive elements */
+a,
+button,
+input[type="button"],
+input[type="submit"],
+input[type="reset"],
+select,
+label[for],
+[role="button"],
+[tabindex]:not([tabindex="-1"]) {
+  cursor: pointer;
+}
+
 /* Disable image selection globally */
 img {
   -webkit-user-select: none;

@@ -93,20 +93,6 @@ export default function LoginPage() {
             {loading ? "Signing in..." : "Sign In"}
           </button>
 
-          <div className="mt-6 p-3 bg-gray-50 rounded-lg">
-            <p className="text-xs font-medium text-gray-500 mb-2">Demo Accounts:</p>
-            <div className="space-y-1 text-xs text-gray-600">
-              <p>
-                <span className="font-medium">Admin:</span> admin@test.com / 123456
-              </p>
-              <p>
-                <span className="font-medium">Shop 1:</span> rajesh@test.com / 123456
-              </p>
-              <p>
-                <span className="font-medium">Shop 2:</span> priya@test.com / 123456
-              </p>
-            </div>
-          </div>
         </form>
       </div>
     </div>
